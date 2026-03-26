@@ -1,1 +1,100 @@
-
+[
+  {
+    "game": "FOE",
+    "timestamp": "2026-03-26T18:00:00Z",
+    "payload": {
+      "responseData": {
+        "player": {
+          "player_id": 1451014,
+          "name": "Theo",
+          "guild": "Elite Warriors",
+          "great_buildings": [
+            {
+              "name": "Statue of Zeus",
+              "level": 80
+            },
+            {
+              "name": "Cathedral of Aachen",
+              "level": 70
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "game": "FOE",
+    "timestamp": "2026-03-26T18:05:00Z",
+    "payload": {
+      "responseData": {
+        "player": {
+          "id": 1451014,
+          "name": "Theo",
+          "guild": "Elite Warriors",
+          "great_buildings": [
+            {
+              "name": "Statue of Zeus",
+              "level": 81
+            },
+            {
+              "name": "Cathedral of Aachen",
+              "level": 71
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "game": "FOE",
+    "timestamp": "2026-03-26T18:10:00Z",
+    "payload": {
+      "responseData": {
+        "player": {
+          "player_id": 999999,
+          "name": "AltPlayer",
+          "guild": "Casual Guild",
+          "great_buildings": [
+            {
+              "name": "Castel del Monte",
+              "level": 10
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "game": "FOE",
+    "timestamp": "2026-03-26T18:15:00Z",
+    "payload": {
+      "responseData": {
+        "player": {
+          "player_id": 1451014,
+          "name": "Theo",
+          "guild": "Elite Warriors",
+          "great_buildings": []
+        }
+      }
+    }
+  },
+  {
+    "game": "FOE",
+    "timestamp": "2026-03-26T18:20:00Z",
+    "payload": {
+      "responseData": {
+        "player": {
+          "player_id": null,
+          "name": "BrokenPlayer",
+          "guild": "BugGuild",
+          "great_buildings": [
+            {
+              "name": "Alcatraz",
+              "level": -5
+            }
+          ]
+        }
+      }
+    }
+  }
+]
